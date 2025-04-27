@@ -1,6 +1,4 @@
-# woofy-smart-pet-monitor
-
-## 🐾 Pet Behavior Recognition - Model Development and Edge Deployment
+# 🐾 Pet Behavior Recognition - Model Development and Edge Deployment
 
 This repository documents the complete pipeline from **pet behavior classification model development** to **local server deployment** for real-time activity monitoring.
 
