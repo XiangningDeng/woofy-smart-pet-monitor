@@ -72,7 +72,7 @@ This project focuses on:
 - Cross-validated accuracy ~82%
 - Good generalization across merged behavior classes.
 
-![confusion_matrix.png](confusion_matrix.png)
+![confusion_matrix.png](https://github.com/XiangningDeng/woofy-smart-pet-monitor/blob/develop/model_training/confusion_matrix.png)
 
 ---
 
